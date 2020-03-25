@@ -1,16 +1,16 @@
 module.exports = {
   // App Info
-  appstore_link         : "https://imedadel.me",                                  // Enter App Store URL.
-  playstore_link        : "https://imedadel.me",                                  // Enter Google Play Store URL.
+  appstore_link         : "https://github.com/WirVsVirus-Hackathon-Corona-Calendar/DaheimKalendar",                                  // Enter App Store URL.
+  playstore_link        : "https://github.com/WirVsVirus-Hackathon-Corona-Calendar/DaheimKalendar",                                  // Enter Google Play Store URL.
   google_analytics_ID   : "UA-47311644-5",                                        // Enter Google Analytics ID or ""
   presskit_download_link: "https://imedadel.me",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
   video_or_screenshot   : "screenshot",                                           // "screenshot" or "video"
-  app_url               : "https://agalp.imedadel.me",                            // Domain of your website without path_prefix.
+  app_url               : "https://imfundfirus.de",                            // Domain of your website without path_prefix.
   path_prefix           : "/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
-  app_name              : "AGALP",
-  app_price             : "Free",
-  app_description       : "Automatically generate GatsbyJS app landing pages.",
-  app_keywords          : ["automatic", "gatsbyjs", "app", "landing page"],
+  app_name              : "Imf & Firus",
+  app_price             : "Kostenlos",
+  app_description       : "Imf und Firus - Eine Spannende Reise",
+  app_keywords          : ["Kinder", "Android", "App", "Lernen", "Corona", "Covid-19"],
 
   // Personal Info
   your_name              : "Imed Adel",
@@ -19,10 +19,10 @@ module.exports = {
   email_address          : "hello@imedadel.me",
   linkedin_username      : null,
   facebook_username      : null,
-  instagram_username     : "ed_adel",
-  twitter_username       : "Imed_Adel",
-  github_username        : "ImedAdel",
-  youtube_username       : null,
+  instagram_username     : "imffirus",
+  twitter_username       : "imffirus",
+  github_username        : "WirVsVirus-Hackathon-Corona-Calendar",
+  youtube_username       : "UCLXzvAjXy4t3e2V4CHxQR1A",
 
   // Features List
   features               : [
