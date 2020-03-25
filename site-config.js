@@ -1,6 +1,6 @@
 module.exports = {
   // App Info
-  appstore_link         : "https://github.com/WirVsVirus-Hackathon-Corona-Calendar/DaheimKalendar",                                  // Enter App Store URL.
+  appstore_link         : null,
   playstore_link        : "https://github.com/WirVsVirus-Hackathon-Corona-Calendar/DaheimKalendar",                                  // Enter Google Play Store URL.
   google_analytics_ID   : "UA-47311644-5",                                        // Enter Google Analytics ID or ""
   presskit_download_link: "https://imedadel.me",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
