@@ -13,10 +13,10 @@ module.exports = {
   app_keywords          : ["Kinder", "Android", "App", "Lernen", "Corona", "Covid-19"],
 
   // Personal Info
-  your_name              : "Imed Adel",
-  your_link              : "https://imedadel.me",
-  your_city              : "Sousse",
-  email_address          : "hello@imedadel.me",
+  your_name              : "Imf und Firus",
+  your_link              : "https://imfundfirus.de",
+  your_city              : "Deutschland",
+  email_address          : "info@infundfirus.de",
   linkedin_username      : null,
   facebook_username      : null,
   instagram_username     : "imffirus",

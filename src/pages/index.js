@@ -184,13 +184,7 @@ const IndexPage = ({ data }) => (
           </div>
           <footer>
             <p className="footerText">
-              Made by{" "}
-              {configs.your_link ? (
-                <a href={configs.your_link}>{configs.your_name}</a>
-              ) : (
-                `${configs.your_name}`
-              )}
-              {configs.your_city && ` in ${configs.your_city}`}
+              Mit ❤️ entwickelt von Teilnehmern des #WirVsVirus Hackathons
             </p>
             <div className="footerIcons">
               {configs.facebook_username && (
